@@ -2,7 +2,7 @@
 
 # Credit Card Fraud Detection using Machine Learning
 
-This project is an **end-to-end implementation** of a **Credit Card Fraud Detection system** built for my Final Year Project. It leverages advanced techniques like **XGBoost**, **SMOTE (for imbalanced data handling)**, and **feature scaling** to accurately identify fraudulent transactions from real-world data.
+This project is an **end-to-end implementation** of a **Credit Card Fraud Detection system** built for my IDS C2P2 project. It leverages advanced techniques like XGBoost, **SMOTE (for imbalanced data handling)**, and **feature scaling** to accurately identify fraudulent transactions from real-world data.
 
 ## Key Highlights
 
