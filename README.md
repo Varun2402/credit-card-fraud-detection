@@ -12,3 +12,11 @@ This project is an **end-to-end implementation** of a **Credit Card Fraud Detect
 * Includes **visualizations**, **confusion matrix**, and **classification report**
 * Structured for **scalability** and easy **deployment**
 
+## Dataset Description
+The dataset contains 284,807 transactions, among which only 492 are frauds (Class = 1).
+### Features:
+**Time:** Seconds elapsed between the transaction and the first transaction in the dataset.
+**Amount:** Transaction amount.
+**Class:** Target variable (0 = Not Fraud, 1 = Fraud).
+Remaining features (V1 to V28) are principal components from PCA to ensure privacy.
+
