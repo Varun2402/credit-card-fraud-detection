@@ -18,5 +18,5 @@ The dataset contains 284,807 transactions, among which only 492 are frauds (Clas
 * **Time:** Seconds elapsed between the transaction and the first transaction in the dataset.
 * **Amount:** Transaction amount.
 * **Class:** Target variable (0 = Not Fraud, 1 = Fraud).
-Remaining features (V1 to V28) are principal components from PCA to ensure privacy.
+* Remaining features (V1 to V28) are principal components from PCA to ensure privacy.
 
